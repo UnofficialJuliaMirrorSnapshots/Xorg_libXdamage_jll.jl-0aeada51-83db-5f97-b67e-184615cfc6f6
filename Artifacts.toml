@@ -1,0 +1,89 @@
+[[Xorg_libXdamage]]
+arch = "armv7l"
+git-tree-sha1 = "6a72773684a717b75c082641bb06afa2bc359f8a"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXdamage.download]]
+    sha256 = "10d6a3667efe7dff976b92c5a416027c928ea4afcc7051f91522041962a1bfef"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.5+0/Xorg_libXdamage.v1.1.5.arm-linux-gnueabihf.tar.gz"
+[[Xorg_libXdamage]]
+arch = "aarch64"
+git-tree-sha1 = "c73594dbe4a6d1837d607efb60ff1589a0faaea6"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXdamage.download]]
+    sha256 = "f44f82c54657122e475588b5e9820a4e5892468d7ba6fa4417d21e01ac09d5fd"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.5+0/Xorg_libXdamage.v1.1.5.aarch64-linux-musl.tar.gz"
+[[Xorg_libXdamage]]
+arch = "i686"
+git-tree-sha1 = "b0a9f6acd7e64c59652527fea98f6bc2450f121a"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXdamage.download]]
+    sha256 = "ce834c3233874109a2485c3fe50d433bab18cbc3f1dc9ed1d79360adeec9e2c2"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.5+0/Xorg_libXdamage.v1.1.5.i686-linux-musl.tar.gz"
+[[Xorg_libXdamage]]
+arch = "i686"
+git-tree-sha1 = "62c4f30b91bcf116b52a8790e74ca1750c0f9fa7"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXdamage.download]]
+    sha256 = "4c43d26b49f338d2ff409ae1722ca4a9b8cdae514e657faf3d16103f89d6d7fc"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.5+0/Xorg_libXdamage.v1.1.5.i686-linux-gnu.tar.gz"
+[[Xorg_libXdamage]]
+arch = "x86_64"
+git-tree-sha1 = "0f470ba95e4567371c6f4b57996c08990e3cbe03"
+os = "freebsd"
+
+    [[Xorg_libXdamage.download]]
+    sha256 = "a4513a0bc84e15c76785c66010cd112e3c759790eec0840ba2ec601fb0a5df10"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.5+0/Xorg_libXdamage.v1.1.5.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_libXdamage]]
+arch = "powerpc64le"
+git-tree-sha1 = "be1b745e56487605f5e0dcae0da966b3601cbac8"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXdamage.download]]
+    sha256 = "b9c06e0c6c49ccfdd4eab8cd9cdfc64bf3581aa055a593ae0d7263f17e03e1f8"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.5+0/Xorg_libXdamage.v1.1.5.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_libXdamage]]
+arch = "armv7l"
+git-tree-sha1 = "2915efe1e49efeeb30eb8c72ca82d82db7c9bb96"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXdamage.download]]
+    sha256 = "70c723d53a2cce22a51a96686c982554421f743b4c520e70f5d79a2e9ca0ceb6"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.5+0/Xorg_libXdamage.v1.1.5.arm-linux-musleabihf.tar.gz"
+[[Xorg_libXdamage]]
+arch = "aarch64"
+git-tree-sha1 = "d113249b571b765cb907744a8f1ca4d0eb516647"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXdamage.download]]
+    sha256 = "0cbb283160dc506a7ba2319ef86362b911b4b00e50f7c78b6106d3c162483e38"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.5+0/Xorg_libXdamage.v1.1.5.aarch64-linux-gnu.tar.gz"
+[[Xorg_libXdamage]]
+arch = "x86_64"
+git-tree-sha1 = "b86bdd9c9fefdd17a25dd08871c4eed25283bba2"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXdamage.download]]
+    sha256 = "f86353bbda9fa7017cec6b92392c79e28c2d150e2b08a092c409f6b4af67f379"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.5+0/Xorg_libXdamage.v1.1.5.x86_64-linux-gnu.tar.gz"
+[[Xorg_libXdamage]]
+arch = "x86_64"
+git-tree-sha1 = "c1849eaa546180cb5768ff9f8d32176760fdb161"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXdamage.download]]
+    sha256 = "6d461769b1f1426355c82cf4fe0dc828bc62a69630785208f080080ff78b348d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.5+0/Xorg_libXdamage.v1.1.5.x86_64-linux-musl.tar.gz"
